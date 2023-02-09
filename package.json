@@ -1,6 +1,6 @@
 {
-	"name": "reader",
-	"displayName": "reader",
+	"name": "reader-plugin",
+	"displayName": "阅读插件",
 	"publisher": "jeege",
 	"description": "阅读APP vscode插件",
 	"icon": "images/icon.png",
