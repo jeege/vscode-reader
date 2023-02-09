@@ -1,7 +1,9 @@
 {
 	"name": "reader",
 	"displayName": "reader",
-	"description": "",
+	"publisher": "jeege",
+	"description": "阅读APP vscode插件",
+	"icon": "images/icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/jeege/vscode-reader"
